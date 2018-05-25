@@ -1,0 +1,61 @@
+#slideDown, #space1{
+	background-color: green;
+	width: 500px;
+	color: white;
+	padding: 7px;
+	text-align: center;
+	border:1px solid silver;
+}
+/*#slideDown, #space1, #slideUp, #space2{
+	display: inline-block;
+	margin-left: 15px;
+}*/
+
+#slideUp, #space2{
+	background-color: green;
+	width: 500px;
+	color: white;
+	padding: 7px;
+	text-align: center;
+	border:1px solid silver;
+}
+
+#space1{
+	padding:50px;
+	width: 414px;
+	display: none;
+}
+
+#space2{
+	padding:50px;
+	width: 414px;
+
+}
+
+/* Styling the fading divs*/
+
+#div1{
+	width: 100px;
+	height: 100px;
+	display: none;
+	background-color: red;
+}
+
+#div2{
+	width: 100px;
+	height: 100px;
+	display: none;
+	background-color: cornflowerblue;
+
+}
+#div3{
+	width: 100px;
+	height: 100px;
+	display: none;
+	background-color: hotpink;
+}
+
+span{
+	color: blue;
+	font-weight: bold;
+}

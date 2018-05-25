@@ -1,0 +1,36 @@
+
+section{
+	width:600px;
+	height: 380px;
+	margin:auto;
+	background-color: lightgray;
+}
+
+section #star_img{
+	padding: 15px;
+	margin: 10px 33px;
+	width:500px;
+	height: 250px;
+	background-color: white;
+}
+h2{
+	text-align: center;
+	color: cornflowerblue;
+	margin-bottom: 10px;
+}
+
+img{
+	width:100px;
+	height: 100px;
+	margin:10px;
+}
+
+button{
+	width: 70px;
+	margin-left: 12px;
+	border:none;
+	color: white;
+	background-color: green;
+	font-size: 1em;
+	box-shadow: 2px 2px 2px black;
+}
